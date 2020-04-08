@@ -1,7 +1,7 @@
 # my.json.players
 Json OpenPlayers
 
-Players for ThemovieDb Helper
+Players for TheMovieDb Helper
   - torrenter.json
   - mrsp.json
 
