@@ -9,5 +9,5 @@
                             "search_episode":   ["showname"]
                           },
     "search_movie"      : "plugin://plugin.video.torrenter/?action=search&url={title}",
-    "search_episode"    : "plugin://plugin.video.torrenter/?action=search&url={name}"
+    "search_episode"    : "plugin://plugin.video.torrenter/?action=search&url={showname}"
 }
