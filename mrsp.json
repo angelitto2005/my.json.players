@@ -1,5 +1,5 @@
 {
-    "name"              : "mrsp",
+    "name"              : "MRSP",
     "plugin"            : "plugin.video.romanianpack",
     "priority"          : 200,
     "assert"            : {
