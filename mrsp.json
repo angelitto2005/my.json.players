@@ -8,7 +8,7 @@
                             "search_movie":     ["title"],
                             "search_episode":   ["showname"]
                           },
-    "search_movie"      : "plugin://plugin.video.romanianpack/?action=searchSites&modalitate=edit&query={title}"
+    "search_movie"      : "plugin://plugin.video.romanianpack/?action=searchSites&searchSites=cuvant&cuvant={title}"
 ,
-    "search_episode"    : "plugin://plugin.video.romanianpack/?action=searchSites&modalitate=edit&query={showname}"
+    "search_episode"    : "plugin://plugin.video.romanianpack/?action=searchSites&searchSites=cuvant&cuvant={showname}"
 }
