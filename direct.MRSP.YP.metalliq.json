@@ -11,7 +11,7 @@
    {
     "link"      : "plugin://plugin.video.romanianpack/?action=searchSites&modalitate=edit&query={title}",
     "steps"     : ["(.*)"],
-    "action"    : "OPEN"
+    "action"    : "PLAY"
    }
   ]
  ],
