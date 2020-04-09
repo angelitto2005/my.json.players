@@ -9,7 +9,7 @@
  "movies"       : [
   [
    {
-    "link"      : "plugin://plugin.video.romanianpack/?action=searchSites&modalitate=edit&query={title}",
+    "link"      : "plugin://plugin.video.romanianpack/?action=searchSites&searchSites=cuvant&cuvant={title}",
     "steps"     : ["(.*)"],
     "action"    : "PLAY"
    }
@@ -18,7 +18,7 @@
  "tvshows"      : [
   [
    {
-    "link"      : "plugin://plugin.video.romanianpack/?action=searchSites&modalitate=edit&query={showname}",
+    "link"      : "plugin://plugin.video.romanianpack/?action=searchSites&searchSites=cuvant&cuvant={showname}",
     "steps"     : ["(.*)"],
     "action"    : "PLAY"
    }
