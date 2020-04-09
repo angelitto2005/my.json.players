@@ -9,9 +9,9 @@
  "movies"       : [
   [
    {
-    "link"      : "plugin://plugin.video.romanianpack/?action=searchSites&modalitate=edit&query={title}",
+    "link"      : "plugin://plugin.video.romanianpack/?action=searchSites&searchSites=cuvant&cuvant={title}",
     "steps"     : ["(.*)"],
-    "action"    : "PLAY"
+    "action"    : "ACTIVATE"
    }
   ]
  ],
