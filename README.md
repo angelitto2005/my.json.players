@@ -9,3 +9,4 @@ Players for OpenMeta
   - direct.MRSP.YP.metalliq.json
   - xonal.mrsp.q.metalliq.json
   - xonal.exodus.q.metalliq.json
+  - direct.exodus.json
